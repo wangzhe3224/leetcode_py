@@ -11,3 +11,4 @@
 - [142. Linked List Cycle II](leetcode/x0142/readme.md)
 - [76. Minimum Window Substring (Hard)](leetcode/x0076/readme.md)
 - [633. Sum of Square Numbers](leetcode/x0633/readme.md)
+- [524. Longest Word in Dictionary through Deleting](leetcode/x0524/readme.md)
