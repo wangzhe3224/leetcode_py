@@ -18,3 +18,4 @@
 - [69. Sqrt(x)](leetcode/x0069/readme.md)
 - [34. Find First nd Last Position of Element in Sorted Array](/leetcode/x0034/readme.md)
 - [81. Search in Rotated Sorted Array II](leetcode/x0081/readme.md)
+- [154. Find Minimum in Rotated Sorted Array II](leetcode/x0154/readme.md)
