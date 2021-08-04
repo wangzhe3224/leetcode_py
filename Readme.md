@@ -7,6 +7,7 @@
 ## 贪心算法
 
 - [455. Assign Cookies](/leetcode/x0455/readme.md)
+- [135. Candy](leetcode/x0135/readme.md)
 
 ## Two pointer
 
