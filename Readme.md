@@ -33,3 +33,5 @@
 
 - [基本算法](leetcode/sort/readme.md)
 - [215. Kth Largest Element in an Array](/leetcode/x0215/readme.md)
+- [347. Top K Frequent Elements](/leetcode/x0347/readme.md)
+- [451. Sort Characters By Frequency](/leetcode/x0451/readme.md)
