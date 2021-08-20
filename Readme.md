@@ -35,3 +35,7 @@
 - [215. Kth Largest Element in an Array](/leetcode/x0215/readme.md)
 - [347. Top K Frequent Elements](/leetcode/x0347/readme.md)
 - [451. Sort Characters By Frequency](/leetcode/x0451/readme.md)
+
+## Search (DFS/BFS/...)
+
+- [695. Max Area of Island](/leetcode/x0695/readme.md)
