@@ -38,6 +38,9 @@
 
 ## Search (DFS/BFS/...)
 
-- [695. Max Area of Island](/leetcode/x0695/readme.md)
-- [547. Number of Provinces](/leetcode/x0547/readme.md)
-- [417. Pacific Atlantic Water Flow](/leetcode/x0417/readme.md)
+- DFS
+  - [695. Max Area of Island](/leetcode/x0695/readme.md)
+  - [547. Number of Provinces](/leetcode/x0547/readme.md)
+  - [417. Pacific Atlantic Water Flow](/leetcode/x0417/readme.md)
+- Backtrack
+  - [46. Permutations](/leetcode/x0046/readme.md)
