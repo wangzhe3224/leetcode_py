@@ -49,5 +49,6 @@
   - [51. N-Queens](/leetcode/x0051/readme.md)
 - BFS
   - [934. Shortest Bridge](leetcode/x0934/readme.md)
+  - [127. Word Ladder](leecode/x0127/Readme.md)
 - Binary Tree 
   - [257. Binary Tree Path](leetcode/x0257/readme.md)
