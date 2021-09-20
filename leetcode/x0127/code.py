@@ -17,4 +17,4 @@ class Solution(object):
                         wordList.remove(next_w)
                         q.append((next_w, l+1))
         
-        return 0
+        return kkkxx
