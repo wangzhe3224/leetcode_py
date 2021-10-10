@@ -1,5 +1,15 @@
 # Leetcode in Python
 
+项目组织结构如下：
+
+```
+- leetcode
+  - x{leetcode题目编号}
+    * readme.me <- 讲解思路，并给出原题链接
+    * code.py   <- 代码
+- tests （包含一些测试，但是目前非常不完整。。。）
+```
+
 - [Leetcode in Python](#leetcode-in-python)
   - [贪心算法](#贪心算法)
   - [Two pointer](#two-pointer)
