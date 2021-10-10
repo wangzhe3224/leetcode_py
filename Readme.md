@@ -57,7 +57,7 @@
   - [51. N-Queens](/leetcode/x0051/readme.md)
 - BFS
   - [934. Shortest Bridge](leetcode/x0934/readme.md)
-  - [127. Word Ladder](leecode/x0127/Readme.md)
+  - [127. Word Ladder](leetcode/x0127/Readme.md)
 - Binary Tree
   - [257. Binary Tree Path](leetcode/x0257/readme.md)
 
@@ -66,4 +66,7 @@
 动态规划问题和搜索问题有很多共同的地方
 > 通俗一点来讲，动态规划和其它遍历算法(如深/广度优先搜索)都是将原问题拆成多个子问 题然后求解，他们之间最本质的区别是，动态规划保存子问题的解，避免重复计算。解决动态规 划问题的关键是找到状态转移方程，这样我们可以通过计算和储存子问题的解来求解最终问题。同时，我们也可以对动态规划进行空间压缩，起到节省空间消耗的效果。这一技巧笔者将在 之后的题目中介绍。
 
-- [70. Climbing Stairs](leetcode/x0070/readme.md)
+- 一维
+  - [70. Climbing Stairs](leetcode/x0070/readme.md)
+  - [198. House Robber](leetcode/x0198/readme.md)
+  - [413. Arithmetic Slices](leetcode/x0413/readme.md)
