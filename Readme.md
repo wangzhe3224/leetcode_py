@@ -17,6 +17,8 @@
   - [Sort](#sort)
   - [Search (DFS/BFS/...)](#search-dfsbfs)
   - [动态规划](#动态规划)
+  - [工程相关](#工程相关)
+    - [限流](#限流)
 
 ## 贪心算法
 
@@ -80,3 +82,9 @@
   - [70. Climbing Stairs](leetcode/x0070/readme.md)
   - [198. House Robber](leetcode/x0198/readme.md)
   - [413. Arithmetic Slices](leetcode/x0413/readme.md)
+
+## 工程相关
+
+### 限流
+
+- [359. Logger Rate Limiter](leetcode/x0359/readme.md)
