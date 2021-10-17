@@ -2,7 +2,7 @@
 
 项目组织结构如下：
 
-```
+```bash
 - leetcode
   - x{leetcode题目编号}
     * readme.me <- 讲解思路，并给出原题链接
@@ -82,6 +82,8 @@
   - [70. Climbing Stairs](leetcode/x0070/readme.md)
   - [198. House Robber](leetcode/x0198/readme.md)
   - [413. Arithmetic Slices](leetcode/x0413/readme.md)
+- 二维
+  - [64. Minimum Path Sum](leetcode/x0064/readme.md)
 
 ## 工程相关
 
