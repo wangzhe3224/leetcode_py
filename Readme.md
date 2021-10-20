@@ -84,6 +84,7 @@
   - [413. Arithmetic Slices](leetcode/x0413/readme.md)
 - 二维
   - [64. Minimum Path Sum](leetcode/x0064/readme.md)
+  - [542. 01 Matrix](leetcode/x0542/readme.md)
 
 ## 工程相关
 
