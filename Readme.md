@@ -85,6 +85,8 @@
 - 二维
   - [64. Minimum Path Sum](leetcode/x0064/readme.md)
   - [542. 01 Matrix](leetcode/x0542/readme.md)
+- 分割类型
+  - [279. Perfect Squares](leetcode/x0279/readme.md)
 
 ## 工程相关
 
