@@ -87,6 +87,10 @@
   - [542. 01 Matrix](leetcode/x0542/readme.md)
 - 分割类型
   - [279. Perfect Squares](leetcode/x0279/readme.md)
+- 背包问题
+  - [416. Partition Equal Subset Sum](leetcode/x0416/readme.md)
+- 股票交易类问题
+  - [121. Best Time to Buy and Sell Stock]
 
 ## 工程相关
 
